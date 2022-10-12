@@ -1,0 +1,3 @@
+position:absolute
+    when the position property is given a value of absolute, the box is taken out of normal flow and longer effects of other elements an the page.
+    

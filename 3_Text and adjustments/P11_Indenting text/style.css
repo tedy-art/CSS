@@ -1,0 +1,8 @@
+h1{
+    background-image: url("img.png");
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+}
+.one{
+    text-indent: 20px;
+}

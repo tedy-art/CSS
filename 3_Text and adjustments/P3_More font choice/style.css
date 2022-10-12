@@ -1,0 +1,7 @@
+@font-face{
+    font-family: 'ChunkFiverRegular';
+    src: url("font/ChunkFiverRegular.eof");
+}
+h1, h2{
+    font-family: ChunkFiveRegular,georgia serif;
+}

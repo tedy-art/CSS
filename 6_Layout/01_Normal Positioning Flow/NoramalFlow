@@ -1,0 +1,4 @@
+position:staic 
+    in normal flow, each block-level element sits on top of the next one-
+        position:staic;
+            I have not specified a width property for the heading element, so you can see it stretches the width of the entire browser window by defult.
